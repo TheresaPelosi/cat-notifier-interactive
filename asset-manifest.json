@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cat-notifier-interactive/static/css/main.fa7f5475.chunk.css",
+    "main.css": "/cat-notifier-interactive/static/css/main.c2bdc24a.chunk.css",
     "main.js": "/cat-notifier-interactive/static/js/main.1187b55a.chunk.js",
     "main.js.map": "/cat-notifier-interactive/static/js/main.1187b55a.chunk.js.map",
     "runtime-main.js": "/cat-notifier-interactive/static/js/runtime-main.d80f60c7.js",
@@ -8,15 +8,15 @@
     "static/js/2.b28cc454.chunk.js": "/cat-notifier-interactive/static/js/2.b28cc454.chunk.js",
     "static/js/2.b28cc454.chunk.js.map": "/cat-notifier-interactive/static/js/2.b28cc454.chunk.js.map",
     "index.html": "/cat-notifier-interactive/index.html",
-    "precache-manifest.6d8d70cb6a2afd0c8773dcc75d26d0bb.js": "/cat-notifier-interactive/precache-manifest.6d8d70cb6a2afd0c8773dcc75d26d0bb.js",
+    "precache-manifest.f7a48e90fd3ccd657d4d25c51cf78ced.js": "/cat-notifier-interactive/precache-manifest.f7a48e90fd3ccd657d4d25c51cf78ced.js",
     "service-worker.js": "/cat-notifier-interactive/service-worker.js",
-    "static/css/main.fa7f5475.chunk.css.map": "/cat-notifier-interactive/static/css/main.fa7f5475.chunk.css.map",
+    "static/css/main.c2bdc24a.chunk.css.map": "/cat-notifier-interactive/static/css/main.c2bdc24a.chunk.css.map",
     "static/js/2.b28cc454.chunk.js.LICENSE.txt": "/cat-notifier-interactive/static/js/2.b28cc454.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d80f60c7.js",
     "static/js/2.b28cc454.chunk.js",
-    "static/css/main.fa7f5475.chunk.css",
+    "static/css/main.c2bdc24a.chunk.css",
     "static/js/main.1187b55a.chunk.js"
   ]
 }
